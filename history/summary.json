@@ -4,19 +4,19 @@
     "url": "$M1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "m1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 261,
-    "timeWeek": 284,
+    "timeDay": 275,
+    "timeWeek": 286,
     "timeMonth": 278,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2022-05-21": 0
+      "2022-05-21": 5
     }
   }
 ]
